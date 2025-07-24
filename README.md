@@ -1,2 +1,2 @@
 # ML-Model-Deployment
-This repository demonstrates a simple end-to-end workflow
+There are various methods for deployment:
